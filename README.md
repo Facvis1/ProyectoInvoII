@@ -6,11 +6,11 @@
 Consiste en ir eliminando iterativamente todas las estrategias dominadas. Partiendo de la matriz de pagos, en el primer paso, se elimina una estrategia dominada, ya que ningún jugador racional jugaría nunca esa estrategia. Esto se traduce en un nuevo juego más pequeño. Algunas estrategias que en el primer paso no eran dominadas, pueden resultar dominadas en este nuevo juego más pequeño. Este primer paso se repite sucesivamente creando cada vez un juego más pequeño hasta que el proceso se detiene. Esto ocurre cuando ningún jugador es capaz de encontrar una estrategia estrictamente dominante o dominada.
 ![](https://i.postimg.cc/Hn5skFSJ/Screenshot-1.png)
 
-#### ### Minimax
+#### Minimax
 Este teorema establece que en los juegos bipersonales de suma cero, donde cada jugador conoce de antemano la estrategia de su oponente y sus consecuencias, existe una estrategia que permite a ambos jugadores minimizar la pérdida máxima esperada. En particular, cuando se examina cada posible estrategia, un jugador debe considerar todas las respuestas posibles del jugador adversario y la pérdida máxima que puede acarrear. El jugador juega, entonces, con la estrategia que resulta en la minimización de su máxima pérdida. Tal estrategia es llamada óptima para ambos jugadores sólo en caso de que sus minimaxes sean iguales (en valor absoluto) y contrarios (en signo). Si el valor común es cero el juego se convierte en un sinsentido.
 ![](https://i.postimg.cc/zXZGcXBT/Screenshot-2.png)
 
-#### ### Estrategia mixta
+#### Estrategia mixta
 En teoría de juegos una estrategia mixta, a veces también llamada estrategia mezclada (del nombre en inglés mixed strategy), es una generalización de las estrategias puras, usada para describir la selección aleatoria de entre varias posibles estrategias puras, lo que determina siempre una distribución de probabilidad sobre el vector de estrategias de cada jugador. Una estrategia totalmente mixta es aquella en la que el jugador asigna una probabilidad estrictamente positiva a cada estrategia pura. Las estrategias totalmente mixtas son importantes para el refinamiento del equilibrio.
 Ejemplo: Piedra, Papel Tijera
 
