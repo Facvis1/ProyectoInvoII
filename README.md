@@ -18,7 +18,7 @@ Supongamos que el jugador 1 juega siempre en estrategias puras, por ejemplo pied
 Puede demostrarse que siempre que haya sesgo en estas probabilidades (es decir, cuando se le asigne más probabilidad a una estrategia que a otra), el otro jugador puede sacar ventaja de ello y mejorar su pago esperado. De este modo, el juego sólo tiene un equilibrio de Nash y es (1/3,1/3,1/3), es decir, jugar con igual probabilidad cada estrategia (siempre y cuando se mantengan los pagos dados por la matriz).
 
 Equilibrio de Nash
-El equilibrio de Nash es, en la teoría de juegos,​ un “concepto de solución” para juegos con dos o más jugadores, el cual asume que:
+El equilibrio de Nash es, en la teoría de juegos, un “concepto de solución” para juegos con dos o más jugadores, el cual asume que:
 Cada jugador conoce y ha adoptado su mejor estrategia, y todos conocen las estrategias de los otros.
 Consecuentemente, cada jugador individual no gana nada modificando su estrategia mientras los otros mantengan las suyas. Así, cada jugador está ejecutando el mejor "movimiento" posible teniendo en cuenta los movimientos de los demás jugadores.
 En otras palabras, un equilibrio de Nash es una situación en la cual todos los jugadores han puesto en práctica, y saben que lo han hecho, una estrategia que maximiza sus ganancias dadas las estrategias de los otros. Consecuentemente, ningún jugador tiene ningún incentivo para modificar individualmente su estrategia.
