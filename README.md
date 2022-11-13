@@ -66,3 +66,19 @@ En la teoría de colas , una disciplina dentro de la teoría matemática de la p
 #### M/M/s
 Modelo donde tanto los tiempos entre llegada como los tiempo de servicio son exponenciales y se tienen s servidores.
 Este modelo supone que existen en el sistema s (entero positivo) servidores
+
+### Bibliografía
+
+https://es.wikipedia.org/wiki/Estrategia_dominante
+https://www.youtube.com/watch?v=rPrI60r-ugk&ab_channel=JuanCarlosAguadoFranco
+https://es.wikipedia.org/wiki/Minimax
+https://es.wikipedia.org/wiki/Estrategia_dominante
+https://es.wikipedia.org/wiki/Equilibrio_de_Nash
+https://es.wikipedia.org/wiki/%C3%81rbol_recubridor_m%C3%ADnimo
+https://es.wikipedia.org/wiki/Algoritmo_de_Dijkstra
+https://es.wikipedia.org/wiki/Red_de_flujo
+https://asana.com/es/resources/critical-path-method
+https://en.wikipedia.org/wiki/M/M/1_queue
+https://en.wikipedia.org/wiki/M/G/1_queue
+https://en.wikipedia.org/wiki/M/D/1_queue
+https://www.estadistica.net/IO/7-3-TEORIA-COLAS.pdf
