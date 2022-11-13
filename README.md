@@ -1,3 +1,6 @@
+Muricio Juarez 43137319
+Facundo Visa 42453631
+
 # Proyecto Final Investigacion Operativa II
 
 ## Informe
