@@ -69,27 +69,27 @@ Este modelo supone que existen en el sistema s (entero positivo) servidores
 
 ### Bibliografía
 
-https://es.wikipedia.org/wiki/Estrategia_dominante
-https://www.youtube.com/watch?v=rPrI60r-ugk&ab_channel=JuanCarlosAguadoFranco
-https://es.wikipedia.org/wiki/Minimax
-https://es.wikipedia.org/wiki/Estrategia_dominante
-https://es.wikipedia.org/wiki/Equilibrio_de_Nash
-https://es.wikipedia.org/wiki/%C3%81rbol_recubridor_m%C3%ADnimo
-https://es.wikipedia.org/wiki/Algoritmo_de_Dijkstra
-https://es.wikipedia.org/wiki/Red_de_flujo
-https://asana.com/es/resources/critical-path-method
-https://en.wikipedia.org/wiki/M/M/1_queue
-https://en.wikipedia.org/wiki/M/G/1_queue
-https://en.wikipedia.org/wiki/M/D/1_queue
-https://www.estadistica.net/IO/7-3-TEORIA-COLAS.pdf
+#### https://es.wikipedia.org/wiki/Estrategia_dominante
+#### https://www.youtube.com/watch?v=rPrI60r-ugk&ab_channel=JuanCarlosAguadoFranco
+#### https://es.wikipedia.org/wiki/Minimax
+#### https://es.wikipedia.org/wiki/Estrategia_dominante
+#### https://es.wikipedia.org/wiki/Equilibrio_de_Nash
+#### https://es.wikipedia.org/wiki/%C3%81rbol_recubridor_m%C3%ADnimo
+#### https://es.wikipedia.org/wiki/Algoritmo_de_Dijkstra
+#### https://es.wikipedia.org/wiki/Red_de_flujo
+#### https://asana.com/es/resources/critical-path-method
+#### https://en.wikipedia.org/wiki/M/M/1_queue
+#### https://en.wikipedia.org/wiki/M/G/1_queue
+#### https://en.wikipedia.org/wiki/M/D/1_queue
+#### https://www.estadistica.net/IO/7-3-TEORIA-COLAS.pdf
 
-###Librerías usadas:
+### Librerías usadas:
 
-numpy: Es una biblioteca para el lenguaje de programación Python que da soporte para crear vectores y matrices grandes multidimensionales, junto con una gran colección de funciones matemáticas de alto nivel para operar con ellas.
-nashpy: Esta es una biblioteca de Python utilizada para el cálculo de equilibrios en juegos de forma estratégica de 2 jugadores.
+#### numpy: Es una biblioteca para el lenguaje de programación Python que da soporte para crear vectores y matrices grandes multidimensionales, junto con una gran colección de funciones matemáticas de alto nivel para operar con ellas.
+#### nashpy: Esta es una biblioteca de Python utilizada para el cálculo de equilibrios en juegos de forma estratégica de 2 jugadores.
 criticalpath: Calcula la ruta crítica a través de una red de tareas.
-pandas: Pandas es una librería de Python especializada en la manipulación y el análisis de datos. Ofrece estructuras de datos y operaciones para manipular tablas numéricas y series temporales, es como el Excel de Python.
-ortools: Este proyecto alberga herramientas de investigación operativa desarrolladas en Google y disponibles como código abierto.
-matplotlib: es una biblioteca para la generación de gráficos en dos dimensiones, a partir de datos contenidos en listas o arrays en el lenguaje de programación Python. Proporciona una API, pylab, diseñada para recordar a la de MATLAB.
-heapq: Este módulo proporciona una implementación del algoritmo de cola de almacenamiento dinámico, también conocido como algoritmo de cola de prioridad.
+#### pandas: Pandas es una librería de Python especializada en la manipulación y el análisis de datos. Ofrece estructuras de datos y operaciones para manipular tablas numéricas y series temporales, es como el Excel de Python.
+#### ortools: Este proyecto alberga herramientas de investigación operativa desarrolladas en Google y disponibles como código abierto.
+#### matplotlib: es una biblioteca para la generación de gráficos en dos dimensiones, a partir de datos contenidos en listas o arrays en el lenguaje de programación Python. Proporciona una API, pylab, diseñada para recordar a la de MATLAB.
+#### heapq: Este módulo proporciona una implementación del algoritmo de cola de almacenamiento dinámico, también conocido como algoritmo de cola de prioridad.
 
