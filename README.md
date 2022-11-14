@@ -92,4 +92,5 @@ criticalpath: Calcula la ruta crítica a través de una red de tareas.
 #### ortools: Este proyecto alberga herramientas de investigación operativa desarrolladas en Google y disponibles como código abierto.
 #### matplotlib: es una biblioteca para la generación de gráficos en dos dimensiones, a partir de datos contenidos en listas o arrays en el lenguaje de programación Python. Proporciona una API, pylab, diseñada para recordar a la de MATLAB.
 #### heapq: Este módulo proporciona una implementación del algoritmo de cola de almacenamiento dinámico, también conocido como algoritmo de cola de prioridad.
-
+#### random: La biblioteca random contiene una serie de funciones relacionadas con los valores aleatorios.
+#### queue: permite crear y trabajar con colas de manera sencilla. Es generalmente utilizado en programas multi-hilo, ya que provee una forma de intercambiar información entre threads de manera segura.
